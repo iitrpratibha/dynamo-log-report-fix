@@ -1,0 +1,5 @@
+jobs/
+*.tar.gz
+*.Zone.Identifier
+__pycache__/
+.pytest_cache/
